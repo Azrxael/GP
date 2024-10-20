@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "422494037224",
+    "project_id": "interfaces-gc4zvt",
+    "storage_bucket": "interfaces-gc4zvt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422494037224:android:254e371180d4ae53ba555d",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMC636enrzS7yMDmwm-nnKByujzBtIxQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
